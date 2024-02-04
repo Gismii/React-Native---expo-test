@@ -1,4 +1,4 @@
-# Gerador de Senhas - React Native com Expo
+# App Gerador de Senhas - React Native com Expo
 
 Bem-vindo ao repositório do Gerador de Senhas, uma aplicação simples desenvolvida em React Native com Expo.
 
